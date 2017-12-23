@@ -1,6 +1,8 @@
 # vue-keyboard
 
 > a keyboard at vue project
+# demo
+![此处输入图片的描述][1]
 
 ## Build Setup
 
@@ -19,3 +21,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+  [1]: http://ome9tqeyq.bkt.clouddn.com/GIF.gif
